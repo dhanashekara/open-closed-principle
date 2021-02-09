@@ -1,1 +1,1 @@
-# open-closed-principle
+# solid-oop-principle
